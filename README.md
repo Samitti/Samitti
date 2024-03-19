@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning new skills 🤣
 - 👯 I’m looking for new job opportunities
-- 🥅 2023 Goals: Contribute more and Learn new skills.
+- 🥅 2024 Goals: Contribute more and Learn new skills.
 - ⚡ Fun fact: 3D Animation Content Creator
 
 ### Connect with me:
