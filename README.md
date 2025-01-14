@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer, and Animator!!
 
-- 🌱 I’m currently learning new skills 🤣
+- 🌱 I’m currently advancing my skills 🤣
 - 👯 I’m looking for new job opportunities
 - 🥅 2025 Goals: Contribute more and Learn new skills.
 - ⚡ Fun fact: 3D Animation Content Creator
