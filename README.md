@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel 👋
 
-## I'm a Husband, Father, Developer, and Animator!!
+## I'm a Husband, Father, and Tech Enthusiast!!!
 
 - 🌱 I’m currently advancing my Cybersecurity skills 🤣
 - 👯 I’m looking for new job opportunities
