@@ -34,17 +34,5 @@
 <img align="left" alt="HTML5" width="26px" src="./icons/ruby.png" />
 <img align="left" alt="HTML5" width="50px" src="./icons/Ruby_On_Rails.png" />
 
-<br />
 
----
 
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=Samitti&show_icons=true&hide_border=true)](https://github.com/Samitti/github-readme-stats)
-
-<br />
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samitti&layout=compact)](https://github.com/Samitti/github-readme-stats)
-
-[twitter]: https://twitter.com/Samuel63734232
-[linkedin]: https://www.linkedin.com/in/samuelghebremeskel/
